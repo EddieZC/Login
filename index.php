@@ -47,7 +47,9 @@
       <script type="text/javascript" src="login.js"></script>
 
      
-      
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+      <link href="imagenes/favicon.png" rel="icon" type="image/png" />
     </head>
     <body>
         <section id="cajaLienzo">
