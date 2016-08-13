@@ -24,7 +24,7 @@
          
          header("location: welcome.php");
       }else {
-         $error = "Your Login Name or Password is invalid";
+         $error = "Su usuario o clave es incorrecto";
       }
    }
 ?>
