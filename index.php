@@ -76,7 +76,7 @@
 
     <footer>
         <div class='define'>
-            <form method="post" >
+            <form method="post" action="crear.html">
              <button  type="submit" id="Crear" class="btn btn-block btn-large">Crear</button>
             </form>
         </div>
