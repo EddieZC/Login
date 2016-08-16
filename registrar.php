@@ -10,6 +10,9 @@ $sql =  "INSERT INTO  `libros`.`usuarios` (`idUsuario` ,`usuario` ,`password`) V
 
 
 $result = mysql_query($sql);
-echo "¡Gracias! Usuario Registrado.\n";
+alert("Registrado Correctamente" );
+
+header("location: index.php");
+
 
 ?>
