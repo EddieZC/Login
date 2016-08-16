@@ -79,7 +79,7 @@
     <footer>
         <div class='define'>
             <form method="post" action="crear.html">
-             <button  type="submit" id="Crear" class="btn btn-block btn-large">Crear</button>
+             <button  type="submit" id="Crear" class="btn btn-block btn-large">Registrar</button>
             </form>
         </div>
     </footer>
